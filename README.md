@@ -22,7 +22,7 @@
 
 - **2026-02-06** ✨ Added Moonshot/Kimi provider, Discord channel, and enhanced security hardening!
 - **2026-02-05** ✨ Added Feishu channel, DeepSeek provider, and enhanced scheduled tasks support!
-- **2026-02-04** 🚀 Released v0.1.3.post4 with multi-provider & Docker support! Check [release notes](https://github.com/HKUDS/nanobot/releases/tag/v0.1.3.post4) for details.
+- **2026-02-04** 🚀 Released v0.1.3.post4 with multi-provider & Docker support! Check [release notes](https://github.com/drposter/nanobot/releases/tag/v1.04.11) for details.
 - **2026-02-03** ⚡ Integrated vLLM for local LLM support and improved natural language task scheduling!
 - **2026-02-02** 🎉 nanobot officially launched! Welcome to try 🐈 nanobot!
 
